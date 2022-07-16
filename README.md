@@ -2,7 +2,7 @@
 
 Swift port of pseudorandom number generator `wyrand` from [wyhash](https://github.com/wangyi-fudan/wyhash) by Wang Yi. On 64-bit hardware, it is should be effectively faster than any other commonly available random number generator. 
 
-It meets quality standards: it passes Big Crush.
+It passes Big Crush....
 
 It conforms to [RandomNumberGenerator](https://developer.apple.com/documentation/swift/randomnumbergenerator) protocol.
 
